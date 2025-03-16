@@ -1,2 +1,2 @@
-# Marina Maciá Ferrandez
+# Marina Maciá Ferrández
 A portfolio website featuring my projects, skills, and experience.
